@@ -21,5 +21,5 @@ app.mount('body')
 ```
 
 ## API
-```resize(render)```
+### ```resize(render)```
 Takes an optional argument. If true emits the ```state.events.RENDER``` event too. If you only need to render when the page's resized.
