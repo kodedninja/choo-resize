@@ -1,0 +1,20 @@
+{
+  "name": "choo-resize",
+  "version": "1.0.0",
+  "description": "Resize Event plugin for Choo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodedninja/choo-resize.git"
+  },
+  "keywords": [
+    "choo"
+  ],
+  "author": "kodedninja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kodedninja/choo-resize/issues"
+  },
+  "homepage": "https://github.com/kodedninja/choo-resize#readme"
+}
