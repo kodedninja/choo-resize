@@ -7,8 +7,6 @@ module.exports = (render) => {
 				emitter.emit(state.events.RESIZE)
 				if (render) emitter.emit(state.events.RENDER)
 			})
-		} else {
-			// todo server side
 		}
 	}
 }
